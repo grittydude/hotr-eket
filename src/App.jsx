@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Events from "./pages/Events";
 import Sermon from "./pages/Sermon";
-import Hero from "./components/hero/Hero";
+import Hero from "./components/hero/hero";
 
 
 const App = () => {
