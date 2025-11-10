@@ -1,0 +1,23 @@
+.footer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto 30px auto;
+}
+
+.footer p{
+  color: #676767;
+  margin: 10px 0;
+}
+
+.footer img{
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+.social-icons img{
+  width: 30px;
+  margin: 0 10px;
+  cursor: pointer;
+}
